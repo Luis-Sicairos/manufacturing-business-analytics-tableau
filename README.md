@@ -1,2 +1,9 @@
-# manufacturing-business-analytics-tableau
-Business intelligence project using Tableau and Excel to analyze financial performance, production trends, and manufacturing KPIs.
+## Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](executive-overview.png)
+
+### Production Overview
+
+![Production Overview](production-overview.png)
